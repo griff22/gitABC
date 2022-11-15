@@ -1,2 +1,3 @@
 a <-"Hello Git!"
-print(b)
+print(a)
+
